@@ -27,8 +27,8 @@ Users should be able to:
 ![](./Mobile-preview.jpg)
 
 ## Links
-- Solution URL: [WILL BE ADDED AFTER DEPLOYMENT]
-- Live Site URL: [WILL BE ADDED AFTER DEPLOYMENT]
+- Solution URL: [Solution](https://github.com/Aon-m/Frontendmentor-Product-Preview-Card)
+- Live Site URL: [Live](https://aon-m.github.io/Frontendmentor-Product-Preview-Card/)
 
 ## My process
 ### Built with
