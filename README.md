@@ -23,8 +23,8 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-![](./Desktop-preview.png)
-![](./Mobile-preview.png)
+![](./Desktop-preview.jpg)
+![](./Mobile-preview.jpg)
 
 ## Links
 - Solution URL: [WILL BE ADDED AFTER DEPLOYMENT]
